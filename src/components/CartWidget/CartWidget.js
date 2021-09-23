@@ -3,7 +3,7 @@ import Cart from "../img/shopping-cart.svg"
 
 
 
-function CartWidget({cartNumber, color, fontSize}) {
+function CartWidget({cartNumber, color}) {
     
     return (
         <div>

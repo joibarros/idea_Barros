@@ -35,7 +35,7 @@ function NavBar() {
                   Ajuares
                 </NavDropdown.Item>
               </NavDropdown>
-              <CartWidget cartNumber=' 4' color='blue' font-size="20px"/>
+              <CartWidget cartNumber=' 4' color='blue' />
             </Nav>
           </Navbar.Collapse>
         </Container>
